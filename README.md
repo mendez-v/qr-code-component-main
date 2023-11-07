@@ -23,7 +23,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ![Desktop](./assets/img/desktop-preview.webp)
 
-## 🔗 Links to solutions
+## 🔗 Links
 
 ✨ [Demo](https://mendez-v.github.io/qr-code-component-main/)
 
