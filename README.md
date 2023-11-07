@@ -27,7 +27,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ✨ [Demo](https://mendez-v.github.io/qr-code-component-main/)
 
-<!-- ✨ [Frontend Mentor](https://your-live-site-url.com) -->
+✨ [Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-SzgP2eZz8B)
 
 ## Built with
 
