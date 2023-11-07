@@ -79,8 +79,9 @@ body {
 .footer {
   --primary-clr: hsl(217 44% 22%);
   --secondary-clr: hsl(216 83% 33%);
-  
+
   padding-block: 1.5em;
+  text-align: center;
   color: var(--primary-clr);
 }
 .attr-link {
