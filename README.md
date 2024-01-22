@@ -8,12 +8,12 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ## Table of contents
 
-- [Screenshot](#screenshot)
+- [Screenshots](#screenshots)
 - [Links](#links)
 - [Built with](#built-with)
 - [Author](#author)
 
-## 📷 Screenshot
+## Screenshots
 
 ### 📱 Mobile
 
@@ -23,11 +23,13 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ![Desktop](./assets/img/desktop-preview.webp)
 
-## 🔗 Links
+## Links
 
-✨ [Demo](https://mendez-v.github.io/qr-code-component-main/)
+[Live Site](https://mendez-v.github.io/qr-code-component-main/) 👀
 
-✨ [Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-SzgP2eZz8B)
+[Solution in Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-SzgP2eZz8B) 👀
+
+[Challenge repository](https://github.com/mendez-v/frontend-mentor-challenges) 👀
 
 ## Built with
 
